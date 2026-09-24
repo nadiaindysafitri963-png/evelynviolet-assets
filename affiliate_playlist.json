@@ -1,0 +1,25 @@
+{
+    "products":  {
+                     "2":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/produk2.mp4",
+                     "1":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/produk1.mp4"
+                 },
+    "version":  1,
+    "checkout_videos":  [
+                            "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/checkout.mp4"
+                        ],
+    "idle_videos":  [
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle1.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle2.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle3.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle4.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle5.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle6.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle7.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle8.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle9.mp4",
+                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle10.mp4"
+                    ],
+    "pack_name":  "Evelyn Violet Affiliate Pack - Dubai Chewy Funchocho",
+    "host_audio":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/host_idle.mp3"
+}
