@@ -1,25 +1,50 @@
 {
-    "products":  {
-                     "2":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/produk2.mp4",
-                     "1":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/produk1.mp4"
-                 },
-    "version":  1,
-    "checkout_videos":  [
-                            "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/checkout.mp4"
-                        ],
-    "idle_videos":  [
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle1.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle2.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle3.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle4.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle5.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle6.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle7.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle8.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle9.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/idle10.mp4"
-                    ],
-    "pack_name":  "Evelyn Violet Affiliate Pack - Dubai Chewy Funchocho",
-    "host_audio":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.1/host_idle.mp3"
+  "pack_name": "Live Dubai Chewy",
+  "host_audio": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/host_idle.mp3",
+  "idle_videos": [
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle1.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle2.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle3.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle4.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle5.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle6.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle7.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle8.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle9.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle10.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle11.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle12.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle13.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle14.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle15.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle16.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle17.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle18.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle19.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle20.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle21.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle22.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle23.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle24.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle25.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle26.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle27.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle28.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle29.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/idle30.mp4"
+  ],
+  "products": {
+    "1": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/produk1.mp4",
+    "2": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/produk2.mp4"
+  },
+  "checkout_videos": [],
+  "custom_voices": {
+    "checkout": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/checkout.mp3",
+    "join": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/join.mp3",
+    "join1": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/join1.mp3",
+    "spill_1": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/spill_1.mp3",
+    "spill_2": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/spill_2.mp3",
+    "reply_harga": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/reply_harga.mp3",
+    "reply_promo": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.2/reply_promo.mp3"
+  }
 }
