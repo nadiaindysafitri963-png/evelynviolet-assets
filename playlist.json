@@ -1,58 +1,68 @@
 {
-    "pack_name":  "Evelyn Violet Breakbeat Pack",
-    "version":  1,
-    "music":  "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/BREAKBEAT_STADIUM_GEN-Z_2026_FULL_BASS_NONSTOP_2_JAM.mp3",
-    "idle_videos":  [
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle1.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle10.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle11.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle12.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle13.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle14.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle15.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle16.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle17.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle18.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle19.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle2.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle20.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle21.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle22.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle23.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle24.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle25.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle27.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle28.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle29.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle3.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle4.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle5.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle6.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle7.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle8.mp4",
-                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle9.mp4"
-                    ],
-    "action_videos":  {
-                          "small":  [
-                                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small.mp4",
-                                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small1.mp4",
-                                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small2.mp4",
-                                        "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small3.mp4"
-                                    ],
-                          "medium":  [
-                                         "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium.mp4",
-                                         "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium1.mp4",
-                                         "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium2.mp4"
-                                     ],
-                          "big":  [
-                                      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big.mp4",
-                                      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big1.mp4",
-                                      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big2.mp4"
-                                  ],
-                          "mega":  [
-                                       "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_mega.mp4",
-                                       "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_mega1.mp4"
-                                   ]
-                      }
+  "pack_name": "Evelyn Violet Breakbeat Pack",
+  "version": 1,
+  "music": "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/BREAKBEAT_STADIUM_GEN-Z_2026_FULL_BASS_NONSTOP_2_JAM.mp3",
+  "idle_videos": [
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle1.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle10.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle11.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle12.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle13.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle14.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle15.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle16.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle17.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle18.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle19.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle2.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle20.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle21.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle22.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle23.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle24.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle25.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle27.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle28.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle29.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle3.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle4.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle5.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle6.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle7.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle8.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle9.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle30.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle31.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle32.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle33.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle34.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle35.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle36.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle37.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle38.mp4",
+    "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/idle39.mp4"
+  ],
+  "action_videos": {
+    "small": [
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small1.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small2.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_small3.mp4"
+    ],
+    "medium": [
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium1.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_medium2.mp4"
+    ],
+    "big": [
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big1.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_big2.mp4"
+    ],
+    "mega": [
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_mega.mp4",
+      "https://github.com/nadiaindysafitri963-png/evelynviolet-assets/releases/download/v1.0/action_mega1.mp4"
+    ]
+  }
 }
